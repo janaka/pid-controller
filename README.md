@@ -30,6 +30,8 @@ Output = how much to adjust (change speed and/or direction) to get from current 
 
 http://playground.arduino.cc/Code/PIDLibrary
 
+http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/
+
 
 ## Author
 
